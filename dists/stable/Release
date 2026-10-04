@@ -1,0 +1,20 @@
+Architectures: aarch64
+Codename: stable
+Components: main
+Date: Sun, 04 Oct 2026 09:14:45 +0000
+Description: Packages for Dex (com.dex)
+Label: Dex
+Origin: Dex
+Suite: stable
+MD5Sum:
+ c4cce6c6c2fe2da8f48888c4b6c2675e           128310 main/binary-aarch64/Packages
+ f767ef49f3cf9b083a4f5a32a731e3aa            48858 main/binary-aarch64/Packages.gz
+SHA1:
+ 4ef195498a3f71ca339d856ab78da6b7007a59cd           128310 main/binary-aarch64/Packages
+ 4c0be641942d28ae55eb445b6c6c21fa6943ea4a            48858 main/binary-aarch64/Packages.gz
+SHA256:
+ 07c292fff83580ee204e83a770a5b1d05bfcf97224a681b9a95aea6669d29b9d           128310 main/binary-aarch64/Packages
+ 34771991f2f79705eb9873d57b711fe13900b0a6e6229037fc63dca9463283d4            48858 main/binary-aarch64/Packages.gz
+SHA512:
+ df70379d18d4a6397b9aa26e560487c1e50b6fe4bb380d700e793e1b3df0a78290ad394adaaf09918f3516b23763fab12662c90fe202954f9ced5fb9f41633f5           128310 main/binary-aarch64/Packages
+ f3fd30b5ddc09330226f160e07ad95f42d9a0aafefdc8af6cb6bf72e5a1ecada2d2d60bb579e2c0df9287127123fee60a3fe9fe9515b8912c37673fb7ccd9ab1            48858 main/binary-aarch64/Packages.gz
