@@ -3454,21 +3454,21 @@ Description: Contains LICENSE files for common licenses
 
 Package: termux-tools
 Architecture: aarch64
-Version: 1.46.0+really1.45.0-3
+Version: 1.46.0+really1.45.0-4
 Essential: yes
 Maintainer: @termux
-Installed-Size: 248
+Installed-Size: 244
 Depends: bzip2, coreutils, curl, dash, diffutils, findutils, gawk, grep, gzip, less, procps, psmisc, sed, tar, termux-am (>= 0.8.0), termux-am-socket (>= 1.5.0), termux-core, termux-exec, util-linux, xz-utils, dialog
 Recommends: ed, dos2unix, inetutils, net-tools, patch, unzip
 Suggests: termux-api
 Conflicts: procps (<< 3.3.15-2)
 Breaks: termux-keyring (<< 1.9)
-Filename: pool/main/t/termux-tools/termux-tools_1.46.0+really1.45.0-3_aarch64.deb
-Size: 29516
-MD5sum: b7bdae29df9c8f816b35f1039eedb048
-SHA1: c5244371d8cccad90009b3b84eed5b08271384fe
-SHA256: c484951183aa1f670b5f2d75404081e0dfc650afd324c0dc2434f640d0624221
-SHA512: baacc09c474372fdf08b8e3e1cbe31dc1a9a00ac423f9bd4b6e9bd037173bbda2a19dc1743a14f9b1dab138b60af3c0ac07ab70d71bf213150bfdc0b060d0a4b
+Filename: pool/main/t/termux-tools/termux-tools_1.46.0+really1.45.0-4_aarch64.deb
+Size: 28388
+MD5sum: 8f33c257add7a04e0bba074329c99ef8
+SHA1: 8da77d27db056f04e00bdd64a2211c44b2a6b227
+SHA256: 74609487268df53445e41557ba6724dc8f87fdf79bcf2aeee15a80e32e683e09
+SHA512: 8f48f3d9794a0b03a67cfb96ccab245f3096213381289c794e7f5ecfd0798809559227bace0ccf6f5358cce4cb0ec3e74c42c67910acc8e5c3009dd34702004b
 Homepage: https://termux.dev/
 Description: Basic system tools for Termux
 
